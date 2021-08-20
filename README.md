@@ -1,1 +1,1 @@
-# sql-with-python
+# NuCamp Course: Python with SQL
